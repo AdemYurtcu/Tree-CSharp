@@ -1,0 +1,5 @@
+c:\users\ademy\onedrive\belgeler\visual studio 2013\Projects\Tree\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\ademy\OneDrive\Belgeler\visual studio 2013\Projects\Tree\Tree\bin\Debug\Tree.dll
+C:\Users\ademy\OneDrive\Belgeler\visual studio 2013\Projects\Tree\Tree\bin\Debug\Tree.pdb
+C:\Users\ademy\OneDrive\Belgeler\visual studio 2013\Projects\Tree\Tree\obj\Debug\Tree.dll
+C:\Users\ademy\OneDrive\Belgeler\visual studio 2013\Projects\Tree\Tree\obj\Debug\Tree.pdb
